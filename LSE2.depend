@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1724592626 source:c:\users\54224\desktop\progra 2\lse2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1724587408 c:\users\54224\desktop\progra 2\lse2\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1724592704 c:\users\54224\desktop\progra 2\lse2\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724592858 source:c:\users\54224\desktop\progra 2\lse2\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
