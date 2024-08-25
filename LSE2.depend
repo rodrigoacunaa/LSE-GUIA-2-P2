@@ -22,3 +22,20 @@
 	<string.h>
 	"lib.h"
 
+1724618801 source:c:\users\rodri\desktop\archivos codeblocks\lse-guia-2-p2-main\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1724617749 c:\users\rodri\desktop\archivos codeblocks\lse-guia-2-p2-main\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1724617805 source:c:\users\rodri\desktop\archivos codeblocks\lse-guia-2-p2-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+

@@ -5,23 +5,22 @@
 #include <string.h>
 //en lib.h no incluimos nada!!
 
-typedef struct Estructura{
-    int nums;
-}TEstructura;
 
 //estructura del nodo
 typedef struct Nodo{
     //contenido del nodo
-    TEstructura Item;
+    int nums;
 
     //evolución del nodo
     struct Nodo * siguiente;
 }TNodo;
 
 TNodo * crearLista();
-TNodo * crearNodo(TEstructura X);
-void cargarEstructura(TNodo **cabeza , int i);
+TNodo * crearNodo(int entrada);
+void cargarEstructura(TNodo **cabeza);
 void imprimirLista(TNodo * cabeza);
+void inserFinal(TNodo **cabeza, int entrada);
+void ordenarLista(TNodo **cabeza);
 
 
 

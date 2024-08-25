@@ -19,10 +19,11 @@ int main()
     fflush(stdin);
     scanf("%d",&op);
     switch(op){
-        case 1: cargarEstructura(elemento,0);
+        case 1: cargarEstructura(&elemento);
             break;
 
-        case 2: //
+        case 2:
+            ordenarLista(&elemento);
             break;
 
         case 3: imprimirLista(elemento);
